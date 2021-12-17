@@ -38,7 +38,7 @@
 
 * Market capitilization is the leading metric used to track the success of Set's products. So far there is more than $360 million of assets across all of SetLabs token sets. 
 
-* I have been unable to find any direct competitors to Set protocol's token sets. As far as I could tell, they are the only company developing these types of on chain solutions to asset management. There is competition with Set's current leveraged products, such as 2x leveraged Eth. While other companies in the DeFi space do offer leveraged trading on ETH, few if any offer leverage using the same mechanism as Set. Set uses tokensets to offer their leveraged products which are collaterized on chain by other products, such as the LINKETH2x Long set. Other margin trading services, such as DyDx use centralized order book solutions and cannoth off their leveraged services in the United states. As far as I could find, Set's leveraged products do not suffer from this restriction. 
+* I have been unable to find any direct competitors to Set protocol's token sets. As far as I could tell, they are the only company developing these types of on chain solutions to asset management. There is competition with Set's current leveraged products, such as 2x leveraged Eth. While other companies in the DeFi space do offer leveraged trading on ETH, few if any offer leverage using the same mechanism as Set. Set uses tokensets to offer their leveraged products which are collaterized on chain by other products, such as the LINKETH2x Long set. Other margin trading services, such as DyDx use centralized order book solutions and cannot offer their leveraged services in the United states. As far as I could find, Set's leveraged products do not suffer from this restriction. 
 
 
 ## Recommendations
